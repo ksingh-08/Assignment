@@ -5,11 +5,11 @@
 1. **Clone the repository:**
    git clone https://github.com/ksingh-08/Assignment.git
 
-2. **Navigate to the project folder**
+2. **Navigate to the project folder:**
     cd frontend
-3. **Install dependencies**
+3. **Install dependencies:**
     npm install
-4. **Run the project locally**
+4. **Run the project locally:**
     npm run dev
 
 # Overview of the tech stack used

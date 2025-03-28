@@ -7,6 +7,7 @@
 
 2. **Navigate to the project folder:**
     cd frontend
+
 3. **Install dependencies:**
     npm install
 4. **Run the project locally:**
@@ -15,10 +16,14 @@
 # Overview of the tech stack used
 
 1. **Backend:**
-    Hono and Cloudflare Workers are used for the backend.
-    Prisma Accelerate is used for database management.
+    Hono and Cloudflare Workers are used for the backend.  
+    Prisma Accelerate is used for database management.  
+
+    
 2. **Frontend:**
-    React is used for the frontend.
+    React is used for the frontend.  
     Shadcn is used for styling some of the components.
+
+    
 3. **Commons:**
     A commons folder is deployed to npm for using Zod validation in both the frontend and backend, implementing code reusability.

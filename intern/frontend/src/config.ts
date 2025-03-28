@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://my-app.mailtoksingh08.workers.dev";

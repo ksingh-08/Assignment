@@ -31,7 +31,7 @@ function LoginPage() {
         toast("User already exists! Create a new one"); 
         console.log(e.response.status)}
       else{
-        toast("Inputs incorrect!");
+        toast("Inputs incorrect! Add a Email in UID section and a password of minimum 6 letters/numbers");
         console.log(e.response.status)
       }
       }

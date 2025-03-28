@@ -6,7 +6,7 @@
    git clone https://github.com/ksingh-08/Assignment.git
 
 2. **Navigate to the project folder:**
-    cd frontend
+    cd intern/frontend
 
 3. **Install dependencies:**
     npm install
